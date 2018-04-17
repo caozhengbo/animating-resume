@@ -24,7 +24,7 @@
         fullStyle: [
           `/*
 * 大家好，我是小锐
-* 好多公司都在招聘
+* 看到好多公司都在招聘
 * 我也来写一份简历！
 */
 
@@ -45,10 +45,10 @@ html {
   width: 45vw; height: 90vh;
 }
 /* 代码高亮 */
-.token.selector{ color: rgb(133,153,0); }
-.token.property{ color: rgb(187,137,0); }
+.token.selector{ color: #50fa76; }
+.token.property{ color: #8be3f6; }
 .token.punctuation{ color: yellow; }
-.token.function{ color: rgb(42,161,152); }
+.token.function{ color: #ff79bd; }
 
 /* 加点 3D 效果呗 */
 html{
@@ -124,8 +124,9 @@ html{
 
 * 前端开发
 * HTML5 + CSS3
-* javaScript
-* vue webApp
+* javaScript jQuery
+* sass bootstrap vue Echarts git
+* git svn
 
 工作经历
 ----
@@ -136,7 +137,7 @@ html{
 链接
 ----
 
-* [CSDN](https://blog.csdn.net/Zhangxiaorui_9)
+* [CSDN博客](https://blog.csdn.net/Zhangxiaorui_9)
 * [我的技术网站](https://kursaal.vip)
 
 > 如果你喜欢这个效果，Fork [我的项目](https://github.com/zhangxiaorui-9/animating-resume)，打造你自己的简历！
