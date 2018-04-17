@@ -51,18 +51,10 @@ html {
   height: 45vh;
 }
 /* 代码高亮 */
-.token.selector{
-  color: rgb(133,153,0);
-}
-.token.property{
-  color: rgb(187,137,0);
-}
-.token.punctuation{
-  color: yellow;
-}
-.token.function{
-  color: rgb(42,161,152);
-}
+.token.selector{ color: #50fa76; }
+.token.property{ color: #8be3f6; }
+.token.punctuation{ color: yellow; }
+.token.function{ color: #ff79bd; }
 
 /* 加点 3D 效果呗 */
 html{
@@ -136,8 +128,9 @@ html{
 
 * 前端开发
 * HTML5 + CSS3
-* javaScript
-* vue webApp
+* javaScript  jQuery
+* sass  bootstrap  vue  Echarts
+* git  svn
 
 工作经历
 ----

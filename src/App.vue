@@ -124,9 +124,9 @@ html{
 
 * 前端开发
 * HTML5 + CSS3
-* javaScript jQuery
-* sass bootstrap vue Echarts git
-* git svn
+* javaScript  jQuery
+* sass  bootstrap  vue  Echarts
+* git  svn
 
 工作经历
 ----
